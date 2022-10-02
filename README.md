@@ -1,6 +1,6 @@
-***************************** PROJECT FOLDERS ORGANIZATION *****************************
+### PROJECT FOLDERS ORGANIZATION
 
-### RA MODULE ###
+## RA MODULE 
 
 RA/RA_project/: this folder contains all the code developed for the RA module.
 
