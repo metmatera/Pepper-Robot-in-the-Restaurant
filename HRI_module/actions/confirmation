@@ -1,0 +1,12 @@
+IMAGE
+<*,*,*,*>:  img/reserved.png
+----
+TEXT
+<*,*,it,*>: Ordine confermato! Puoi sederti e aspettarmi adesso!
+<*,*,*,*>:  Table reserved! You can now sit down and wait for me! 
+----
+TTS
+<*,*,it,*>: Ordine confermato! Puoi sederti e aspettarmi adesso!
+<*,*,*,*>:  Table reserved! You can now sit down and wait for me! 
+----
+

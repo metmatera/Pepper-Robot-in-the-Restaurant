@@ -1,0 +1,22 @@
+IMAGE
+<*,*,*,*>:  img/dishes.jpeg
+----
+TEXT
+<*,*,it,*>: Cosa desiderate managiare?
+<*,*,*,*>:  Please, add the dish you prefer to the order or confirm the whole order!
+----
+TTS
+<*,*,it,*>: Cosa desiderate managiare?
+<*,*,*,*>:  Please, add the dish you prefer to the order or confirm the whole order!
+----
+BUTTONS
+Burger
+<*,*,it,*>: Burger
+<*,*,*,*>: Burger
+Chips
+<*,*,it,*>: Chips
+<*,*,*,*>: Chips
+ToConfirmation
+<*,*,it,*>: Continue
+<*,*,*,*>: Continue
+----

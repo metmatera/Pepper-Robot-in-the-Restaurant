@@ -1,0 +1,19 @@
+IMAGE
+<*,*,*,*>:  img/restaurant.jpg
+----
+TEXT
+<*,*,it,*>: Quale tavolo preferisci?
+<*,*,*,*>:  What table do you prefer? 
+----
+TTS
+<*,*,it,*>: Quale tavolo preferisci?
+<*,*,*,*>:  What table do you prefer?
+----
+BUTTONS
+T2
+<*,*,it,*>: T2
+<*,*,*,*>: T2
+T4
+<*,*,it,*>: T4
+<*,*,*,*>: T4
+----

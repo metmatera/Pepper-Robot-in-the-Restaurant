@@ -1,0 +1,17 @@
+IMAGE
+<*, *, *, *>:  img/welcome.jpg
+----
+TEXT
+<*,*,it,*>: Benvenuto al ristorante HRI!
+<*,*,*,*>:  Welcome to the HRI restaurant! All the tables are now occupied, I'm sorry!
+----
+GESTURE
+<*,*,*,*>: animations/Stand/Gestures/Hey_1
+----
+TTS
+<*,*,it,*>: Benvenuto al ristorante HRI!
+<*,*,*,*>:  Welcome to the HRI restaurant! All the tables are now occupied, I'm sorry! 
+----
+
+
+

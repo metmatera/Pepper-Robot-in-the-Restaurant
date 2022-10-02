@@ -1,0 +1,19 @@
+IMAGE
+<*,*,*,*>: img/table.jpeg
+----
+TEXT
+<*,*,it,*>: Ordine completato! Hai ordinato: 3 acque 3 coca-cola 5 hamburger 5 patatine 
+<*,*,*,*>: Completed order! You have ordered: 3 waters 3 cokes 5 hamburgers 5 french fries 
+----
+TTS
+<*,*,it,*>: Ordine completato! Hai ordinato: 3 acque 3 coca-cola 5 hamburger 5 patatine 
+<*,*,*,*>: Completed order! You have ordered: 3 waters 3 cokes 5 hamburgers 5 french fries 
+----
+BUTTONS
+Confirm
+<*,*,it,*>: Confirm
+<*,*,*,*>: Confirm
+Cancel
+<*,*,it,*>: Cancel
+<*,*,*,*>: Cancel
+----

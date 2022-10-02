@@ -1,0 +1,28 @@
+IMAGE
+<*,*,*,*>:  img/restaurant.jpg
+----
+TEXT
+<*,*,it,*>: Ottima scelta! Quante persone siete?
+<*,*,*,*>:  Good choice! How many people are you?
+----
+TTS
+<*,*,it,*>: Ottima scelta! Quante persone siete?
+<*,*,*,*>:  Good choice! How many people are you?
+----
+BUTTONS
+1
+<*,*,it,*>: 1
+<*,*,*,*>:  1
+2
+<*,*,it,*>: 2
+<*,*,*,*>:  2
+3
+<*,*,it,*>: 3
+<*,*,*,*>:  3
+4
+<*,*,it,*>: 4
+<*,*,*,*>:  4
+5
+<*,*,it,*>: 5
+<*,*,*,*>:  5
+----

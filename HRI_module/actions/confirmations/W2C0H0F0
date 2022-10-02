@@ -1,0 +1,19 @@
+IMAGE
+<*,*,*,*>: img/table.jpeg
+----
+TEXT
+<*,*,it,*>: Ordine completato! Hai ordinato: 2 acque 
+<*,*,*,*>: Completed order! You have ordered: 2 waters 
+----
+TTS
+<*,*,it,*>: Ordine completato! Hai ordinato: 2 acque 
+<*,*,*,*>: Completed order! You have ordered: 2 waters 
+----
+BUTTONS
+Confirm
+<*,*,it,*>: Confirm
+<*,*,*,*>: Confirm
+Cancel
+<*,*,it,*>: Cancel
+<*,*,*,*>: Cancel
+----

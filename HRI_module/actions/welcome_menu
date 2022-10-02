@@ -1,0 +1,20 @@
+IMAGE
+<*, *, *, *>:  img/menu.png
+----
+TEXT
+<*,*,it,*>: Ciao! Clicca sul buttone qui sotto appena sei pronto per ordinare!
+<*,*,*,*>:  Hi! Click on the button below whenever you feel ready for the order!
+----
+GESTURE
+<*,*,*,*>: animations/Stand/Gestures/Hey_1
+----
+TTS
+<*,*,it,*>: Ciao! Clicca sul buttone qui sotto appena sei pronto per ordinare!
+<*,*,*,*>:  Hi! Click on the button below whenever you feel ready for the order!
+----
+BUTTONS
+start
+<*,*,it,*>: Inizia a prenotare
+<*,*,*,*>:  Start ordering
+----
+

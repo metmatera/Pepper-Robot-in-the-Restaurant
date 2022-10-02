@@ -1,0 +1,12 @@
+IMAGE
+<*,*,*,*>:  img/menu.png
+----
+TEXT
+<*,*,it,*>: Ordine confermato!
+<*,*,*,*>:  Confirmed order!  
+----
+TTS
+<*,*,it,*>: Ordine confermato!
+<*,*,*,*>:  Confirmed order!  
+----
+

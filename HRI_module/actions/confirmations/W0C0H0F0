@@ -1,0 +1,19 @@
+IMAGE
+<*,*,*,*>: img/table.jpeg
+----
+TEXT
+<*,*,it,*>: Non hai ordinato nulla...
+<*,*,*,*>: You did not order anything...
+----
+TTS
+<*,*,it,*>: Non hai ordinato nulla...
+<*,*,*,*>: You did not order anything...
+----
+BUTTONS
+Confirm
+<*,*,it,*>: Confirm
+<*,*,*,*>: Confirm
+Cancel
+<*,*,it,*>: Cancel
+<*,*,*,*>: Cancel
+----

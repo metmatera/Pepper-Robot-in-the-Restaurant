@@ -1,0 +1,22 @@
+IMAGE
+<*,*,*,*>:  img/drinks.jpg
+----
+TEXT
+<*,*,it,*>: Cosa desiderate bere?
+<*,*,*,*>:  Please, add the drink you prefer to your order or proceed to our menu!
+----
+TTS
+<*,*,it,*>: Cosa desiderate bere?
+<*,*,*,*>:  Please, add the drink you prefer to your order or proceed to our menu!
+----
+BUTTONS
+Water
+<*,*,it,*>: Water
+<*,*,*,*>: Water
+Coke
+<*,*,it,*>: Coke
+<*,*,*,*>: Coke
+ToMenu
+<*,*,it,*>: To menu
+<*,*,*,*>: To menu
+----

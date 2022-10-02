@@ -1,0 +1,12 @@
+IMAGE
+<*,*,*,*>:  img/table.jpeg
+----
+TEXT
+<*,*,it,*>: Ordine cancellato!
+<*,*,*,*>:  You have cancelled your order!
+----
+TTS
+<*,*,it,*>: Ordine cancellato!
+<*,*,*,*>:  You have cancelled your order!
+----
+
