@@ -1,8 +1,6 @@
-### PROJECT FOLDERS ORGANIZATION
-
 ## RA MODULE 
 
-RA/RA_project/: this folder contains all the code developed for the RA module.
+RA_module/: this folder contains all the code developed for the RA module.
 
 It is composed by:
 
@@ -15,9 +13,9 @@ It is composed by:
 - run-bash to run the docker container
  
 
-### HRI MODULE ###
+## HRI MODULE
 
-HRI/HRI_project/: this folder contains all the code developed for the HRI module.
+HRI_module/: this folder contains all the code developed for the HRI module.
 
 It is composed by:
 
